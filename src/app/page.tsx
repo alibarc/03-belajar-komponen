@@ -1,5 +1,6 @@
 import Image from "next/image";
-import Profile from "../component/profile";
+//import Profile from "../component/profile";
+import { Galerry } from "@/component/galerry";
 
 export default function Home() {
   return (
@@ -10,9 +11,7 @@ export default function Home() {
           </div>
           </div>
           <div className= "mt-4 flex flex-row justify-between">
-          <Profile/>
-          <Profile/>
-          <Profile/>
+          <Galerry/>
         </div>
         </div>
       );
