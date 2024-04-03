@@ -26,7 +26,13 @@ Hasil Run
 
 ## SOAL 4
 
-Kode setelah diperbaiki
+Kode setelah diperbaiki<br>
 ![Screenshoot](ssgambar/img8.png)
-Hasil run dari kode
+Hasil run dari kode<br>
 ![Screenshoot](ssgambar/img7.png)
+
+## SOAL 5
+ekstrak URL gambar ke dalam objek person
+![Screenshoot](ssgambar/img9.png)
+impor komponen
+![Screenshoot](ssgambar/img10.png)
