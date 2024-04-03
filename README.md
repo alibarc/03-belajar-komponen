@@ -23,3 +23,10 @@ Kode setelah diperbaiki menggunakan jsx conventer
 ![Screenshoot](ssgambar/img5.png)
 Hasil Run
 ![Screenshoot](ssgambar/img6.png)
+
+## SOAL 4
+
+Kode setelah diperbaiki
+![Screenshoot](ssgambar/img8.png)
+Hasil run dari kode
+![Screenshoot](ssgambar/img7.png)
