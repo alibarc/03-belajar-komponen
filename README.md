@@ -36,3 +36,7 @@ ekstrak URL gambar ke dalam objek person
 ![Screenshoot](ssgambar/img9.png)
 impor komponen
 ![Screenshoot](ssgambar/img10.png)
+
+## SOAL 6
+Kode setelah diperbaiki , dan  hasil run tetap sama namun cara pemanggilan yang berbeda
+![Screenshoot](ssgambar/img11.png)
