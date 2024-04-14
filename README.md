@@ -46,3 +46,10 @@ Kode setelah diperbaiki
 ![Screenshoot](ssgambar/img13.png)
 Hasil run
 ![Screenshoot](ssgambar/img12.png)
+
+## SOAL 8
+Kode setelah diperbaiki
+![Screenshoot](ssgambar/img14.png)
+![Screenshoot](ssgambar/img15.png)
+Hasil run
+![Screenshoot](ssgambar/img16.png)
