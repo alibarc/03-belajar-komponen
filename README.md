@@ -53,3 +53,9 @@ Kode setelah diperbaiki
 ![Screenshoot](ssgambar/img15.png)
 Hasil run
 ![Screenshoot](ssgambar/img16.png)
+
+## SOAL 9
+Kode setelah diperbaiki
+![Screenshoot](ssgambar/img17.png)
+Hasil Run
+![Screenshoot](ssgambar/img18.png)
