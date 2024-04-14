@@ -40,3 +40,9 @@ impor komponen
 ## SOAL 6
 Kode setelah diperbaiki , dan  hasil run tetap sama namun cara pemanggilan yang berbeda
 ![Screenshoot](ssgambar/img11.png)
+
+## SOAL 7
+Kode setelah diperbaiki
+![Screenshoot](ssgambar/img13.png)
+Hasil run
+![Screenshoot](ssgambar/img12.png)
